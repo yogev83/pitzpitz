@@ -1,0 +1,29 @@
+[
+  {
+    "type": "multi",
+    "puzzle": "winter.png",
+    "parts": [
+      {
+        "image": "pitzpitzWinter.png",
+        "target": {
+          "x": 873,
+          "y": 430
+        }
+      },
+      {
+        "image": "brendaWinter.png",
+        "target": {
+          "x": 852,
+          "y": 509
+        }
+      },
+      {
+        "image": "pitzpitzWinter.png",
+        "target": {
+          "x": 365,
+          "y": 186
+        }
+      }
+    ]
+  }
+]

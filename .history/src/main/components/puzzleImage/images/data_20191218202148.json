@@ -1,0 +1,36 @@
+[
+  {
+    "type": "linear",
+    "puzzle": "layingDown.png",
+    "parts": [
+      {
+        "right": {
+          "image": "pitzpitzLayingDown.png",
+          "target": {
+            "x": 1107,
+            "y": 18
+          }
+        },
+        "wrongs": [
+          "donnaLayingDown.png",
+          "donnaLayingDown.png",
+          "donnaLayingDown.png"
+        ]
+      },
+      {
+        "right": {
+          "image": "donnaLayingDown.png",
+          "target": {
+            "x": 580,
+            "y": 500
+          }
+        },
+        "wrongs": [
+          "andreaLayingDown.png",
+          "andreaLayingDown.png",
+          "andreaLayingDown.png"
+        ]
+      }
+    ]
+  }
+]

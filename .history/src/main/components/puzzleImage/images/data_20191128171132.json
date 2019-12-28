@@ -1,0 +1,80 @@
+[
+  {
+    "target": {
+      "x": 160,
+      "y": 145
+    },
+    "images": ["a", "b", "c"]
+  },
+
+  {
+    "target": {
+      "x": 63,
+      "y": 111
+    },
+    "images": ["b", "a", "c"]
+  },
+
+  {
+    "target": {
+      "x": 300,
+      "y": 145
+    },
+    "images": ["c", "a", "b"]
+  },
+
+  {
+    "target": {
+      "x": 220,
+      "y": 160
+    },
+    "images": ["d", "e", "f"]
+  },
+
+  {
+    "target": {
+      "x": 200,
+      "y": 5
+    },
+    "images": ["e", "d", "g"]
+  },
+
+  {
+    "target": {
+      "x": 0,
+      "y": 100
+    },
+    "images": ["f", "e", "d"]
+  },
+
+  {
+    "target": {
+      "x": 35,
+      "y": 220
+    },
+    "images": ["h", "g", "d"]
+  },
+
+  {
+    "puzzle": {
+      "target": {
+        "x": 35,
+        "y": 220
+      },
+      "width": 904,
+      "height": 620,
+      "imageName": "h.png"
+    },
+    "parts": {
+      "right": "h1.png",
+      "wrongs": [
+        "g1.png",
+        {
+          "imageName": "d1.png",
+          "width": 447,
+          "height": 486
+        }
+      ]
+    }
+  }
+]

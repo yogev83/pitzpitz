@@ -1,0 +1,29 @@
+[
+  {
+    "type": "multi",
+    "puzzle": "layingDown.png",
+    "parts": [
+      {
+        "image": "a1.png",
+        "target": {
+          "x": 160,
+          "y": 145
+        }
+      },
+      {
+        "image": "a1.png",
+        "target": {
+          "x": 160,
+          "y": 145
+        }
+      },
+      {
+        "image": "a1.png",
+        "target": {
+          "x": 160,
+          "y": 145
+        }
+      }
+    ]
+  }
+]

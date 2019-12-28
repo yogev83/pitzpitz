@@ -1,0 +1,126 @@
+[
+  {
+    "puzzle": {
+      "target": { "x": 160, "y": 145 },
+      "width": 658,
+      "height": 744,
+      "imageName": "a.png"
+    },
+    "parts": {
+      "right": "a1.png",
+      "wrongs": ["b1.png", "c1.png"]
+    }
+  },
+
+  {
+    "puzzle": {
+      "target": {
+        "x": 63,
+        "y": 111
+      },
+      "width": 843,
+      "height": 587,
+      "imageName": "b.png"
+    },
+    "parts": {
+      "right": "b1.png",
+      "wrongs": ["a1.png", "c1.png"]
+    }
+  },
+
+  {
+    "puzzle": {
+      "target": {
+        "x": 300,
+        "y": 145
+      },
+      "width": 981,
+      "height": 777,
+      "imageName": "c.png"
+    },
+    "parts": {
+      "right": "c1.png",
+      "wrongs": ["a1.png", "b1.png"]
+    }
+  },
+
+  {
+    "puzzle": {
+      "target": {
+        "x": 220,
+        "y": 160
+      },
+      "width": 954,
+      "height": 729,
+      "imageName": "d.png"
+    },
+    "parts": {
+      "right": "d1.png",
+      "wrongs": ["e1.png", "f1.png"]
+    }
+  },
+
+  {
+    "puzzle": {
+      "target": {
+        "x": 200,
+        "y": 5
+      },
+      "width": 763,
+      "height": 583,
+      "imageName": "e.png"
+    },
+    "parts": {
+      "right": "e1.png",
+      "wrongs": ["d1.png", "g1.png"]
+    }
+  },
+
+  {
+    "puzzle": {
+      "target": {
+        "x": 0,
+        "y": 100
+      },
+      "width": 804,
+      "height": 836,
+      "imageName": "f.png"
+    },
+    "parts": {
+      "right": "f1.png",
+      "wrongs": ["e1.png", "d1.png"]
+    }
+  },
+
+  {
+    "puzzle": {
+      "target": {
+        "x": 0,
+        "y": 100
+      },
+      "width": 533,
+      "height": 700,
+      "imageName": "g.png"
+    },
+    "parts": {
+      "right": "g1.png",
+      "wrongs": ["e1.png", "f1.png"]
+    }
+  },
+
+  {
+    "puzzle": {
+      "target": {
+        "x": 35,
+        "y": 220
+      },
+      "width": 904,
+      "height": 620,
+      "imageName": "h.png"
+    },
+    "parts": {
+      "right": "h1.png",
+      "wrongs": ["g1.png", "d1.png"]
+    }
+  }
+]

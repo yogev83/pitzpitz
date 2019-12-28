@@ -1,0 +1,50 @@
+[
+  {
+    "type": "linear",
+    "puzzle": "cover.png",
+    "parts": [
+      {
+        "right": {
+          "image": "steveBalcony.png",
+          "target": {
+            "x": 1007,
+            "y": 211
+          }
+        },
+        "wrongs": [
+          "steveLayingDown.png",
+          "steveLayingDown.png",
+          "steveLayingDown.png"
+        ]
+      },
+      {
+        "right": {
+          "image": "brandaBalcony.png",
+          "target": {
+            "x": 895,
+            "y": 453
+          }
+        },
+        "wrongs": [
+          "andreaLayingDown.png",
+          "andreaLayingDown.png",
+          "andreaLayingDown.png"
+        ]
+      },
+      {
+        "right": {
+          "image": "pitzpitzBalcony.png",
+          "target": {
+            "x": 597,
+            "y": 477
+          }
+        },
+        "wrongs": [
+          "pitzpitzCard.png",
+          "pitzpitzLayingDown.png",
+          "pitzpitzLayingDown.png"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "type": "linear",
+    "puzzle": "jeans.png",
+    "parts": [
+      {
+        "right": {
+          "image": "andreajeans.png",
+          "target": {
+            "x": 376,
+            "y": 350
+          }
+        },
+        "wrongs": ["andreaLayingDown.png", "andreaMount.png"]
+      },
+      {
+        "right": {
+          "image": "brandonJeans.png",
+          "target": {
+            "x": 600,
+            "y": 260
+          }
+        },
+        "wrongs": ["brandonCover.png"]
+      },
+      {
+        "right": {
+          "image": "pitzpitzJeans.png",
+          "target": {
+            "x": 1035,
+            "y": 315
+          }
+        },
+        "wrongs": [
+          "pitzpitzBalcony.png",
+          "pitzpitzWinter.png",
+          "pitzpitzLine.png"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,148 @@
+[
+  {
+    "target": {
+      "x": 160,
+      "y": 145
+    },
+    "images": ["a", "b", "c"]
+  },
+
+  {
+    "target": {
+      "x": 63,
+      "y": 111
+    },
+    "images": ["b", "a", "c"]
+  },
+
+  {
+    "puzzle": {
+      "target": {
+        "x": 300,
+        "y": 145
+      },
+      "images": ["c", "a", "b"]
+    }
+  },
+
+  {
+    "puzzle": {
+      "target": {
+        "x": 220,
+        "y": 160
+      },
+      "imageName": "d.png"
+    },
+    "parts": {
+      "right": {
+        "imageName": "d1.png"
+      },
+      "wrongs": [
+        {
+          "imageName": "e1.png"
+        },
+        "f1.png"
+      ]
+    }
+  },
+
+  {
+    "puzzle": {
+      "target": {
+        "x": 200,
+        "y": 5
+      },
+      "width": 763,
+      "height": 583,
+      "imageName": "e.png"
+    },
+    "parts": {
+      "right": {
+        "imageName": "e1.png",
+        "width": 506,
+        "height": 562
+      },
+      "wrongs": [
+        {
+          "imageName": "d1.png",
+          "width": 447,
+          "height": 486
+        },
+        "g1.png"
+      ]
+    }
+  },
+
+  {
+    "puzzle": {
+      "target": {
+        "x": 0,
+        "y": 100
+      },
+      "width": 804,
+      "height": 836,
+      "imageName": "f.png"
+    },
+    "parts": {
+      "right": "f1.png",
+      "wrongs": [
+        {
+          "imageName": "e1.png",
+          "width": 506,
+          "height": 562
+        },
+        {
+          "imageName": "d1.png",
+          "width": 447,
+          "height": 486
+        }
+      ]
+    }
+  },
+
+  {
+    "puzzle": {
+      "target": {
+        "x": 0,
+        "y": 100
+      },
+      "width": 533,
+      "height": 700,
+      "imageName": "g.png"
+    },
+    "parts": {
+      "right": "g1.png",
+      "wrongs": [
+        {
+          "imageName": "e1.png",
+          "width": 506,
+          "height": 562
+        },
+        "f1.png"
+      ]
+    }
+  },
+
+  {
+    "puzzle": {
+      "target": {
+        "x": 35,
+        "y": 220
+      },
+      "width": 904,
+      "height": 620,
+      "imageName": "h.png"
+    },
+    "parts": {
+      "right": "h1.png",
+      "wrongs": [
+        "g1.png",
+        {
+          "imageName": "d1.png",
+          "width": 447,
+          "height": 486
+        }
+      ]
+    }
+  }
+]

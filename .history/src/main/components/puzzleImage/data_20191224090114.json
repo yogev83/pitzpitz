@@ -1,0 +1,46 @@
+[
+  {
+    "type": "linear",
+    "puzzle": "elegant.png",
+    "parts": [
+      {
+        "right": {
+          "image": "lukeElegant.png",
+          "target": {
+            "x": 600,
+            "y": 371
+          }
+        },
+        "wrongs": ["lukeSitting.png", "lukeSitting.png", "lukeSitting.png"]
+      },
+      {
+        "right": {
+          "image": "donnaElegant.png",
+          "target": {
+            "x": 874,
+            "y": 378
+          }
+        },
+        "wrongs": [
+          "donnaSitting.png",
+          "donnaLayingDown.png",
+          "donnaSitting.png"
+        ]
+      },
+      {
+        "right": {
+          "image": "pitzpitzElegant.png",
+          "target": {
+            "x": 1122,
+            "y": 278
+          }
+        },
+        "wrongs": [
+          "pitzpitzLayingDown.png",
+          "pitzpitzCover.png",
+          "pitzpitzCard.png"
+        ]
+      }
+    ]
+  }
+]

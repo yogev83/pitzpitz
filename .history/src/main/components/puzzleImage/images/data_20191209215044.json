@@ -1,0 +1,36 @@
+[
+  {
+    "type": "multi",
+    "puzzle": "layingDown.png",
+    "parts": [
+      {
+        "image": "pitzpitzLayingDown.png",
+        "target": {
+          "x": 551,
+          "y": 18
+        }
+      },
+      {
+        "image": "donnaLayingDown.png",
+        "target": {
+          "x": 0,
+          "y": 591
+        }
+      },
+      {
+        "image": "andreaLayingDown.png",
+        "target": {
+          "x": 160,
+          "y": 145
+        }
+      },
+      {
+        "image": "steveLayingDown.png",
+        "target": {
+          "x": 160,
+          "y": 145
+        }
+      }
+    ]
+  }
+]

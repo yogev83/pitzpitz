@@ -1,0 +1,36 @@
+[
+  {
+    "type": "multi",
+    "puzzle": "mount.png",
+    "parts": [
+      {
+        "image": "pitzpitzMount.png",
+        "target": {
+          "x": 1107,
+          "y": 18
+        }
+      },
+      {
+        "image": "lukeMount.png",
+        "target": {
+          "x": 580,
+          "y": 500
+        }
+      },
+      {
+        "image": "andreaMount.png",
+        "target": {
+          "x": 834,
+          "y": 532
+        }
+      },
+      {
+        "image": "davidMount.png",
+        "target": {
+          "x": 590,
+          "y": 20
+        }
+      }
+    ]
+  }
+]

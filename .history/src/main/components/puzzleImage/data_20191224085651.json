@@ -1,0 +1,20 @@
+[
+  {
+    "type": "simple",
+    "puzzle": "cards.png",
+    "parts": {
+      "right": {
+        "image": "pitzpitzCard.png",
+        "target": {
+          "x": 978,
+          "y": 401
+        }
+      },
+      "wrongs": [
+        "pitzpitzBalcony.png",
+        "pitzpitzCover.png",
+        "pitzpitzLayingDown.png"
+      ]
+    }
+  }
+]

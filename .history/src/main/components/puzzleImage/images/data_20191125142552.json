@@ -1,0 +1,46 @@
+[
+  {
+    "puzzle": {
+      "target": { "x": 160, "y": 145 },
+      "width": 658,
+      "height": 744,
+      "imageName": "a.png"
+    },
+    "parts": {
+      "right": "a1.png",
+      "wrongs": ["b1.png", "c1.png"]
+    }
+  },
+
+  {
+    "puzzle": {
+      "target": {
+        "x": 63,
+        "y": 111
+      },
+      "width": 843,
+      "height": 587,
+      "imageName": "b.png"
+    },
+    "parts": {
+      "right": "b1.png",
+      "wrongs": ["a1.png", "c1.png"]
+    }
+  },
+
+  {
+    "puzzle": {
+      "target": {
+        "x": 300,
+        "y": 145
+      },
+      "width": 981,
+      "height": 777,
+      "imageName": "c.png"
+    },
+    "parts": {
+      "right": "c1.png",
+      "wrongs": ["a1.png", "b1.png"]
+    }
+  }
+]

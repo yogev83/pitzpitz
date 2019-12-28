@@ -1,0 +1,16 @@
+[
+  {
+    "type": "single",
+    "puzzle": "layingDown.png",
+    "parts": {
+      "right": {
+        "image": "pitzpitzLayingDown.png",
+        "target": {
+          "x": 1107,
+          "y": 18
+        }
+      },
+      "wrongs": []
+    }
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "type": "simple",
+    "puzzle": "a.png",
+    "parts": {
+      "right": {
+        "image": "a1.png",
+        "target": {
+          "x": 160,
+          "y": 145
+        }
+      },
+      "wrongs": ["b1.png", "c1.png"]
+    }
+  }
+]

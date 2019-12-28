@@ -1,0 +1,36 @@
+[
+  {
+    "type": "linear",
+    "puzzle": "cover.png",
+    "parts": [
+      {
+        "right": {
+          "image": "brandonCover.png",
+          "target": {
+            "x": 971,
+            "y": 296
+          }
+        },
+        "wrongs": [
+          "donnaLayingDown.png",
+          "donnaLayingDown.png",
+          "donnaLayingDown.png"
+        ]
+      },
+      {
+        "right": {
+          "image": "pitzpitzCover.png",
+          "target": {
+            "x": 775,
+            "y": 442
+          }
+        },
+        "wrongs": [
+          "pitzpitzLayingDown.png",
+          "pitzpitzBalcony.png",
+          "pitzpitzCard.png"
+        ]
+      }
+    ]
+  }
+]

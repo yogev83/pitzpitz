@@ -1,0 +1,242 @@
+[
+  {
+    "type": "linear",
+    "puzzle": "sitting.png",
+    "parts": [
+      {
+        "right": {
+          "image": "lukeSitting.png",
+          "target": {
+            "x": 768,
+            "y": 322
+          }
+        },
+        "wrongs": ["lukeElegant.png", "lukeElegant.png", "lukeElegant.png"]
+      },
+      {
+        "right": {
+          "image": "steveSitting.png",
+          "target": {
+            "x": 539,
+            "y": 321
+          }
+        },
+        "wrongs": [
+          "steveBalcony.png",
+          "steveLayingDown.png",
+          "steveBalcony.png"
+        ]
+      },
+      {
+        "right": {
+          "image": "donnaSitting.png",
+          "target": {
+            "x": 1093,
+            "y": 330
+          }
+        },
+        "wrongs": [
+          "donnaLayingDown.png",
+          "donnaElegant.png",
+          "donnaLayingDown.png"
+        ]
+      },
+      {
+        "right": {
+          "image": "pitzpitzSitting.png",
+          "target": {
+            "x": 981,
+            "y": 597
+          }
+        },
+        "wrongs": [
+          "pitzpitzCover.png",
+          "pitzpitzBalcony.png",
+          "pitzpitzCard.png"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "linear",
+    "puzzle": "elegant.png",
+    "parts": [
+      {
+        "right": {
+          "image": "lukeElegant.png",
+          "target": {
+            "x": 600,
+            "y": 371
+          }
+        },
+        "wrongs": ["lukeSitting.png", "lukeSitting.png", "lukeSitting.png"]
+      },
+      {
+        "right": {
+          "image": "donnaElegant.png",
+          "target": {
+            "x": 874,
+            "y": 385
+          }
+        },
+        "wrongs": [
+          "donnaSitting.png",
+          "donnaLayingDown.png",
+          "donnaSitting.png"
+        ]
+      },
+      {
+        "right": {
+          "image": "pitzpitzElegant.png",
+          "target": {
+            "x": 1122,
+            "y": 278
+          }
+        },
+        "wrongs": [
+          "pitzpitzLayingDown.png",
+          "pitzpitzCover.png",
+          "pitzpitzCard.png"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "linear",
+    "puzzle": "line.png",
+    "parts": [
+      {
+        "right": {
+          "image": "lukeLine.png",
+          "target": {
+            "x": 776,
+            "y": 260
+          }
+        },
+        "wrongs": ["lukeSitting.png", "lukeElegant.png", "lukeSitting.png"]
+      },
+      {
+        "right": {
+          "image": "donnaLine.png",
+          "target": {
+            "x": 1067,
+            "y": 310
+          }
+        },
+        "wrongs": [
+          "donnaElegant.png",
+          "donnaLayingDown.png",
+          "donnaSitting.png"
+        ]
+      },
+      {
+        "right": {
+          "image": "pitzpitzLine.png",
+          "target": {
+            "x": 522,
+            "y": 340
+          }
+        },
+        "wrongs": [
+          "pitzpitzBalcony.png",
+          "pitzpitzSitting.png",
+          "pitzpitzElegant.png"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "linear",
+    "puzzle": "jeans.png",
+    "parts": [
+      {
+        "right": {
+          "image": "andreajeans.png",
+          "target": {
+            "x": 376,
+            "y": 350
+          }
+        },
+        "wrongs": ["andreaLayingDown.png", "andreaMount.png"]
+      },
+      {
+        "right": {
+          "image": "brandonJeans.png",
+          "target": {
+            "x": 600,
+            "y": 260
+          }
+        },
+        "wrongs": ["brandonCover.png"]
+      },
+      {
+        "right": {
+          "image": "pitzpitzJeans.png",
+          "target": {
+            "x": 1035,
+            "y": 315
+          }
+        },
+        "wrongs": [
+          "pitzpitzBalcony.png",
+          "pitzpitzWinter.png",
+          "pitzpitzLine.png"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "multi",
+    "puzzle": "winter.png",
+    "parts": [
+      {
+        "image": "pitzpitzWinter.png",
+        "target": {
+          "x": 871,
+          "y": 484
+        }
+      },
+      {
+        "image": "steveWinter.png",
+        "target": {
+          "x": 779,
+          "y": 195
+        }
+      },
+      {
+        "image": "brendaWinter.png",
+        "target": {
+          "x": 1069,
+          "y": 452
+        }
+      }
+    ]
+  },
+  {
+    "type": "multi",
+    "puzzle": "mount.png",
+    "parts": [
+      {
+        "image": "pitzpitzMount.png",
+        "target": {
+          "x": 1016,
+          "y": 200
+        }
+      },
+      {
+        "image": "davidMount.png",
+        "target": {
+          "x": 1200,
+          "y": 480
+        }
+      },
+      {
+        "image": "lukeMount.png",
+        "target": {
+          "x": 850,
+          "y": 601
+        }
+      }
+    ]
+  }
+]

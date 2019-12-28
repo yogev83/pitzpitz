@@ -1,0 +1,16 @@
+/* div#canvas-wrapper.active {
+  width: 100%;
+  height: 100%;
+} */
+
+div#canvas-wrapper.active {
+  background: url("assets/cloth.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+div#canvas-wrapper > canvas {
+  width: 100%;
+  height: 100%;
+  border: none !important;
+}
