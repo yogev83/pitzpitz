@@ -95,6 +95,7 @@
         }
       ]
     },
+
     {
       "type": "multi",
       "puzzle": "layingDown.png",
@@ -147,6 +148,7 @@
         ]
       }
     },
+
     {
       "type": "linear",
       "puzzle": "elegant.png",

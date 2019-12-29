@@ -1,100 +1,46 @@
 {
   "first": {
     "type": "linear",
-    "puzzle": "sitting.png",
+    "puzzle": "balcony.png",
     "parts": [
       {
         "right": {
-          "image": "lukeSitting.png",
+          "image": "steveBalcony.png",
           "target": {
-            "x": 768,
-            "y": 322
+            "x": 1007,
+            "y": 250
           }
         },
-        "wrongs": ["lukeElegant.png", "lukeMount.png", "lukeLine.png"]
+        "wrongs": ["steveSitting.png", "steveLayingDown.png", "steveWinter.png"]
       },
       {
         "right": {
-          "image": "steveSitting.png",
+          "image": "brendaBalcony.png",
           "target": {
-            "x": 539,
-            "y": 321
+            "x": 895,
+            "y": 504
           }
         },
-        "wrongs": ["steveBalcony.png", "steveLayingDown.png", "steveWinter.png"]
+        "wrongs": ["brendaWinter.png", "brendaLine.png"]
       },
       {
         "right": {
-          "image": "donnaSitting.png",
+          "image": "pitzpitzBalcony.png",
           "target": {
-            "x": 1093,
-            "y": 328
-          }
-        },
-        "wrongs": ["donnaLayingDown.png", "donnaElegant.png", "donnaLine.png"]
-      },
-      {
-        "right": {
-          "image": "pitzpitzSitting.png",
-          "target": {
-            "x": 981,
-            "y": 597
+            "x": 597,
+            "y": 515
           }
         },
         "wrongs": [
-          "pitzpitzCover.png",
-          "pitzpitzLayingDown.png",
-          "pitzpitzCard.png"
+          "pitzpitzJeans.png",
+          "pitzpitzLine.png",
+          "pitzpitzElegant.png"
         ]
       }
     ]
   },
 
   "puzzles": [
-    {
-      "type": "linear",
-      "puzzle": "balcony.png",
-      "parts": [
-        {
-          "right": {
-            "image": "steveBalcony.png",
-            "target": {
-              "x": 1007,
-              "y": 250
-            }
-          },
-          "wrongs": [
-            "steveSitting.png",
-            "steveLayingDown.png",
-            "steveWinter.png"
-          ]
-        },
-        {
-          "right": {
-            "image": "brendaBalcony.png",
-            "target": {
-              "x": 895,
-              "y": 504
-            }
-          },
-          "wrongs": ["brendaWinter.png", "brendaLine.png"]
-        },
-        {
-          "right": {
-            "image": "pitzpitzBalcony.png",
-            "target": {
-              "x": 597,
-              "y": 515
-            }
-          },
-          "wrongs": [
-            "pitzpitzJeans.png",
-            "pitzpitzLine.png",
-            "pitzpitzElegant.png"
-          ]
-        }
-      ]
-    },
     {
       "type": "multi",
       "puzzle": "layingDown.png",
@@ -146,6 +92,61 @@
           "pitzpitzLayingDown.png"
         ]
       }
+    },
+
+    {
+      "type": "linear",
+      "puzzle": "sitting.png",
+      "parts": [
+        {
+          "right": {
+            "image": "lukeSitting.png",
+            "target": {
+              "x": 768,
+              "y": 322
+            }
+          },
+          "wrongs": ["lukeElegant.png", "lukeMount.png", "lukeLine.png"]
+        },
+        {
+          "right": {
+            "image": "steveSitting.png",
+            "target": {
+              "x": 539,
+              "y": 321
+            }
+          },
+          "wrongs": [
+            "steveBalcony.png",
+            "steveLayingDown.png",
+            "steveWinter.png"
+          ]
+        },
+        {
+          "right": {
+            "image": "donnaSitting.png",
+            "target": {
+              "x": 1093,
+              "y": 328
+            }
+          },
+          "wrongs": ["donnaLayingDown.png", "donnaElegant.png", "donnaLine.png"]
+        },
+        {
+          "right": {
+            "image": "pitzpitzSitting.png",
+            "target": {
+              "x": 981,
+              "y": 597
+            }
+          },
+          "wrongs": [
+            "pitzpitzCover.png",
+            "pitzpitzLayingDown.png",
+            "pitzpitzCard.png"
+          ]
+        }
+      ]
     },
     {
       "type": "linear",
