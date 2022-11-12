@@ -19,7 +19,7 @@
     "webpack": "^3.3.0",
     "webpack-dev-server": "^2.6.1",
     "webpack-glob-entries": "^1.0.1",
-    "webpack-stream": "^3.2.0"
+    "webpack-stream": "^7.0.0"
   },
   "scripts": {
     "build": "webpack --display-modules",
